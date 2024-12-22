@@ -10,19 +10,9 @@ Frameworks like TensorFlow and PyTorch abstract away many of the complexities of
 
 The model achieved an accuracy of 90.57% on the MNIST Digit Classification dataset and 82.70% on the MNIST Fashion Classification dataset.
 
-<<<<<<< HEAD
 ### MNIST Digit Classification :
 ![Image](MNIST.png)
 
 ### MNIST Fashion Classification :
 ![Image](MNIST_Fashion.png)
 
-
-
-=======
-MNIST Digit Classification :
-!["Image of MNIST digits"](https://raw.githubusercontent.com/AHB102/MNIST_NN_from_scratch/main/Results/MNIST.png)
-
-MNIST Fashion Classification :
-!["Image of MNIST Fashion items"](https://raw.githubusercontent.com/AHB102/MNIST_NN_from_scratch/main/Results/MNIST_Fashion.png)
->>>>>>> 532d7d1 (Update README.md)
